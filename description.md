@@ -1,8 +1,8 @@
-## ¿En qué se relacionan una vaca y una computadora?
+**¿En qué se relacionan una vaca y una computadora?**
 La Bioinformática es una disciplina científica destinada a la aplicación de métodos computacionales al análisis de datos biológicos, para poder contestar numerosas preguntas. Las tecnologías computacionales permiten, entre otras cosas, el análisis en plazos cortos de gran cantidad de datos (provenientes de experimentos, bibliografía, bases de datos públicas, etc), así como la predicción de la forma o la función de las distintas moléculas, o la simulación del comportamiento de sistemas biológicos complejos como células y organismos. 
 La bioinformática puede ser pensada como una herramienta en el aprendizaje de la biología: su objeto de trabajo son entidades biológicas (ADN, proteínas, organismos completos, sus poblaciones, etc.) que se analizan con métodos que permiten “visualizar” distintos procesos de la naturaleza. Así, la bioinformática aporta una manera clara y precisa de percibir los procesos biológicos, y permite poner en imágenes conceptos abstractos. utilizando herramientas que integran múltiples conocimientos (lógico-matemático, biológico, físico, estadístico).
 
-## ¡Bienvenido! ¿Estás listo?
+**¡Bienvenido! ¿Estás listo?**
 Podemos comenzar con algunas definiciones.
 
 **¿En qué consiste una computadora?**
@@ -68,19 +68,6 @@ comandos) que le darás a la computadora, siempre en sintaxis de Python. Cada ve
 ejecutará esa orden y podrás escribir un nuevo comando. ¡Ojo! Al salir de la consola se borrarán los
 comandos, a menos que los guardemos en un archivo o script para volver a ejecutarlos más adelante.
 
-**¿Se pueden correr scripts en las apps de Python?**
-
-¡Si, es posible! Pero para eso, primero hay que crearlos. Veremos cómo hacerlo con QPython3.
-Abrimos el editor de la aplicación desde la pantalla principal, luego escribimos el script que queremos
-ejecutar y lo guardamos en una carpeta (por ejemplo, “scripts3”) usando el botón correspondiente.
-
-_¡Atención! Siempre al final del nombre que demos a nuestro script debemos usar la extensión “.py”,_
-_como en el ejemplo de la foto: “ejemplo.py”._
-
-Nuestro script se ejecuta desde la página principal; allí apretamos el botón “Programs” y navegamos
-en los archivos para encontrar nuestro script. Al seleccionarlo aparecerán las opciones que se
-muestran en la imagen, de las cuales debemos elegir y pulsar “Run”. ¡Tachan! ¡El script se ejecuta!
-
 **¿Qué otras formas tenemos para correr Python?**
 
 Existen consolas en línea que te permiten correr Python en internet como si estuviese
@@ -91,12 +78,9 @@ tengas internet!). Te recomendamos dos, pero siempre podés buscar otras:
 
 En este curso utilizaremos una versión especial de python que corre en línea y se encuentra totalmente traducida al español, para facilitar su aprendizaje. Por eso, cuando vayas a escribir tu programa, te aparecerán pequeñas cajitas, como la que ves abajo, donde podrás escribir el código y luego enviarlo, para que la plataforma evalué si tu código está correcto.
 
-``` 
-
+``` python
 print('Este es un ejemplo de una caja de código.')
 ```
-
-
 
 _“Aún el camino más largo siempre comienza con el primer paso” - Lao Tse_
 
