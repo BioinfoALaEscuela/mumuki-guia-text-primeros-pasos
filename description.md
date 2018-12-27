@@ -75,6 +75,7 @@ En este curso utilizaremos una versión especial de python que corre en línea y
 print('Este es un ejemplo de una caja de código.')
 ```
 
-_“Aún el camino más largo siempre comienza con el primer paso” - Lao Tse_
+> “Aún el camino más largo siempre comienza con el primer paso” - Lao Tse
+
 El primer paso para poder hacer tu primer programa es abrir la consola de Python, tu app del teléfono
 o consola en línea, o seguir en nuestra plataforma, ¡lo que tengas a mano para arrancar! 
