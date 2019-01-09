@@ -1,8 +1,8 @@
-**¿En qué se relacionan una vaca y una computadora?**
-La Bioinformática es una disciplina científica destinada a la aplicación de métodos computacionales al análisis de datos biológicos, para poder contestar numerosas preguntas. Las tecnologías computacionales permiten, entre otras cosas, el análisis en plazos cortos de gran cantidad de datos (provenientes de experimentos, bibliografía, bases de datos públicas, etc), así como la predicción de la forma o la función de las distintas moléculas, o la simulación del comportamiento de sistemas biológicos complejos como células y organismos. 
+**¿Con qué empezar?**
+Podemos comenzar con algunas definiciones que nos ayuden a entender un poco más de qué se trata este taller:
 
-**¡Bienvenido! ¿Estás listo?**
-Podemos comenzar con algunas definiciones.
+**¿En qué se relacionan una vaca y una computadora?**
+La bioinformática es una disciplina científica destinada a la aplicación de métodos computacionales al análisis de datos biológicos, para poder contestar numerosas preguntas. Su objeto de trabajo son entidades biológicas: ADN, proteínas, organismos completos, sus poblaciones, etc. Las tecnologías computacionales permiten, entre otras cosas, el análisis en plazos cortos de gran cantidad de datos (provenientes de experimentos, bases de datos, etc.); así como la predicción de la forma o la función de las distintas moléculas, o la simulación del comportamiento de sistemas biológicos complejos como células y organismos… LA VACA!! Así es como echando mano de los la tecnología podemos percibir distintos procesos biológicos y poner en imágenes conceptos que pueden resultarnos de otra forma muy abstractos.
 
 **¿En qué consiste una computadora?**
 Una computadora está formada por el Hardware (que son todas las partes o elementos físicos que la
