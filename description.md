@@ -5,18 +5,6 @@ Hoy vamos a empezar nuestro recorrido por un nuevo y hermoso mundo: ¡la **bioin
 ¿Difícil? ¡No tanto! Peeeero antes de empezar aprendamos algunas nociones sobre nuestras amigas las computadoras. ¡Seguínos!
 
 
-**¿Por qué es útil aprender a programar?**
-Tu smartphone, tu Playstation o Smart TV no serían muy útiles sin programas
-(aplicaciones, juegos, etc) para hacerlas funcionar. Cada vez que abrimos un
-documento para hacer un trabajo práctico para la escuela, o usamos el WhatsApp para
-chatear con nuestros amigos, estamos usando programas que interpretan lo que
-deseamos, como cambiar un color de fuente, aumentar el tamaño de letra o enviar un
-mensaje. Estos programas le comunican nuestras órdenes a la PC o teléfono para que las ejecuten.
-Aprendiendo a programar podrías hacer una gran diversidad de cosas: desde escribir tus propios
-juegos y aplicaciones para celular, combinar el uso de varios programas en forma secuencial o leer
-millones de textos sin abrir un solo libro… hasta analizar el genoma de un organismo o miles de
-estructuras de proteínas y así sacar conclusiones de relevancia biológica.
-
 **Entonces: ¿Qué es Python?**
 Es un lenguaje de programación con una forma de escritura (sintaxis) sencilla y poderosa. Es lo que se
 conoce como lenguaje de scripting, que puede ser ejecutado por partes y no necesita
