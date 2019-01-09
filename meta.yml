@@ -9,9 +9,9 @@ teacher_info: 'La bioinformática puede ser pensada como una herramienta en el a
   distintos procesos de la naturaleza. Así, la bioinformática aporta una manera clara
   y precisa de percibir los procesos biológicos, y permite poner en imágenes conceptos
   abstractos. utilizando herramientas que integran múltiples conocimientos (lógico-matemático,
-  biológico, físico, estadístico). Este taller es "un punto" en común que permite
+  biológico, físico, estadístico).** Este taller es "un punto" en común que permite
   a los/las estudiantes abordar la Biología desde un punto de vista integral y brinda
-  una posibilidad para el trabajo interdiciplinario docente. '
+  una posibilidad para el trabajo interdiciplinario docente. **'
 language: python
 id_format: "%05d"
 order:
