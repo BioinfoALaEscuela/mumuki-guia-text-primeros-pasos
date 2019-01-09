@@ -1,0 +1,2 @@
+Como vimos el objetivo de este taller es darle una vuelta de tuerca a la Biología, si bien existen muchas herramientas disponibles para analizar datos biológicos, poder construir tus propias herramientas te dará la posibilidad de comprender en profundidad los conceptos y aplicar este conocimiento a nuevas problemáticas. 
+Ahora bien, es importante conocer nuestra herramienta de trabajo, en este caso nuestra PC o teléfono inteligente. ¿Podrías identificar qué parte da la computadora estaremos trabajando?

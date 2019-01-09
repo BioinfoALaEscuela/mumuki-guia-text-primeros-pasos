@@ -14,4 +14,5 @@ teacher_info: 'La bioinformática puede ser pensada como una herramienta en el a
   una posibilidad para el trabajo interdiciplinario docente. '
 language: python
 id_format: "%05d"
-order: []
+order:
+- 1

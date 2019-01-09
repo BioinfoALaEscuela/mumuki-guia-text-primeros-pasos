@@ -1,0 +1,14 @@
+---
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: Hardware
+  checked: false
+- value: Software
+  checked: true
+name: Hard & Soft

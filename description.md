@@ -46,7 +46,7 @@ de Python y Python Argentina. Para nosotros, la razón más importante para eleg
 Python es que podés comenzar a hacer tus propios programas realmente rápido.
 
 **¿Cómo se puede usar Python?**
-Depende del dispositivo que uses. En las computadoras, suele venir instalado. Si tenés
+Depende del dispositivo que uses. En las computadoras con Linux, suele venir instalado. Si tenés
 un teléfono inteligente existen varias aplicaciones que instalan todo lo necesario para
 que Python funcione. Solo debés buscar ‘Python’ en tu tienda y descargarte alguna de
 las apps disponibles. Recomendamos las siguientes opciones gratuitas:
