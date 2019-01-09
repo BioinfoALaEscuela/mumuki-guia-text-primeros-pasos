@@ -1,6 +1,5 @@
 **¿En qué se relacionan una vaca y una computadora?**
 La Bioinformática es una disciplina científica destinada a la aplicación de métodos computacionales al análisis de datos biológicos, para poder contestar numerosas preguntas. Las tecnologías computacionales permiten, entre otras cosas, el análisis en plazos cortos de gran cantidad de datos (provenientes de experimentos, bibliografía, bases de datos públicas, etc), así como la predicción de la forma o la función de las distintas moléculas, o la simulación del comportamiento de sistemas biológicos complejos como células y organismos. 
-La bioinformática puede ser pensada como una herramienta en el aprendizaje de la biología: su objeto de trabajo son entidades biológicas (ADN, proteínas, organismos completos, sus poblaciones, etc.) que se analizan con métodos que permiten “visualizar” distintos procesos de la naturaleza. Así, la bioinformática aporta una manera clara y precisa de percibir los procesos biológicos, y permite poner en imágenes conceptos abstractos. utilizando herramientas que integran múltiples conocimientos (lógico-matemático, biológico, físico, estadístico).
 
 **¡Bienvenido! ¿Estás listo?**
 Podemos comenzar con algunas definiciones.
