@@ -1,3 +1,5 @@
+¿Qué hacemos entonces cuando programamos? 
+
 Una computadora está constituida, básicamente, por un gran número de circuitos eléctricos que
 pueden ser activados (1) o desactivados (0). Al establecer diferentes combinaciones de prendido y
 apagado de los circuitos, los usuarios de computadoras podemos lograr que el equipo realice alguna
