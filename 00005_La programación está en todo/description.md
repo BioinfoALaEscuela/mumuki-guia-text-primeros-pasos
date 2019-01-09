@@ -1,4 +1,5 @@
-**¿Por qué es útil aprender a programar?**
+Pero, ¿por qué es útil aprender a programar?
+
 Tu smartphone, tu Playstation o Smart TV no serían muy útiles sin programas
 (aplicaciones, juegos, etc) para hacerlas funcionar. Cada vez que abrimos un
 documento para hacer un trabajo práctico para la escuela, o usamos el WhatsApp para
