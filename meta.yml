@@ -15,5 +15,6 @@ teacher_info: 'La bioinformática puede ser pensada como una herramienta en el a
 language: python
 id_format: "%05d"
 order:
-- 1
 - 2
+- 1
+- 3

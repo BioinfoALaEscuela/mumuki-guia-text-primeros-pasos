@@ -5,12 +5,6 @@ Hoy vamos a empezar nuestro recorrido por un nuevo y hermoso mundo: ¡la **bioin
 ¿Difícil? ¡No tanto! Peeeero antes de empezar aprendamos algunas nociones sobre nuestras amigas las computadoras. ¡Seguínos!
 
 
-**¿En qué consiste una computadora?**
-Una computadora está formada por el Hardware (que son todas las partes o elementos físicos que la
-componen) y el Software (que son todas las instrucciones para el funcionamiento del Hardware). El
-sistema operativo es el principal Software de la computadora, pues proporciona una interfaz con el
-usuario y permite al resto de los programas una interacción correcta con el Hardware.
-
 **¿Qué hacemos entonces cuando programamos?**
 Una computadora está constituida, básicamente, por un gran número de circuitos eléctricos que
 pueden ser activados (1) o desactivados (0). Al establecer diferentes combinaciones de prendido y
