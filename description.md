@@ -5,21 +5,6 @@ Hoy vamos a empezar nuestro recorrido por un nuevo y hermoso mundo: ¡la **bioin
 ¿Difícil? ¡No tanto! Peeeero antes de empezar aprendamos algunas nociones sobre nuestras amigas las computadoras. ¡Seguínos!
 
 
-**¿Qué hacemos entonces cuando programamos?**
-Una computadora está constituida, básicamente, por un gran número de circuitos eléctricos que
-pueden ser activados (1) o desactivados (0). Al establecer diferentes combinaciones de prendido y
-apagado de los circuitos, los usuarios de computadoras podemos lograr que el equipo realice alguna
-acción (por ejemplo, que muestre algo en la pantalla). ¡Esto es programar!
-Los lenguajes de programación actúan como traductores entre el usuario y el equipo. En lugar de
-aprender el difícil lenguaje de la máquina, con sus combinaciones de ceros y unos, se puede utilizar un
-lenguaje de programación para dar instrucciones al equipo de un modo que sea más fácil de aprender
-y entender. Para que la computadora entienda nuestras órdenes, un programa intermedio, denominado
-compilador, convierte las instrucciones dadas por el usuario en un determinado lenguaje de
-programación, al lenguaje máquina de ceros y unos.
-Esto significa que, como programadores de Python (o cualquier otro lenguaje), no necesitamos
-entender lo que el equipo hace o cómo lo hace, basta con que entendamos a “hablar y escribir” en el
-lenguaje de programación.
-
 **¿Por qué es útil aprender a programar?**
 Tu smartphone, tu Playstation o Smart TV no serían muy útiles sin programas
 (aplicaciones, juegos, etc) para hacerlas funcionar. Cada vez que abrimos un
