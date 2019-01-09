@@ -8,6 +8,6 @@ lenguaje de programación para dar instrucciones al equipo de un modo que sea m�
 y entender. Para que la computadora entienda nuestras órdenes, un programa intermedio, denominado
 compilador, convierte las instrucciones dadas por el usuario en un determinado lenguaje de
 programación, al lenguaje máquina de ceros y unos.
-Esto significa que, como programadores de Python (o cualquier otro lenguaje), no necesitamos
+Esto significa que, como programadores de Python :snake: (o cualquier otro lenguaje), no necesitamos
 entender lo que el equipo hace o cómo lo hace, basta con que entendamos a “hablar y escribir” en el
 lenguaje de programación.
