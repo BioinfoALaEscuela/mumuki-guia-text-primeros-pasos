@@ -1,0 +1,6 @@
+Es un lenguaje de programación con una forma de escritura (sintaxis) sencilla y poderosa. Es lo que se
+conoce como lenguaje de scripting, que puede ser ejecutado por partes y no necesita
+ser compilado en un paso aparte. Python tiene muchas características, ventajas y usos
+que vamos a pasar por alto en este taller, pero que podes leer en las páginas oficiales
+de Python y Python Argentina. Para nosotros, la razón más importante para elegir
+Python es que podés comenzar a hacer tus propios programas realmente rápido.

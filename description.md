@@ -5,13 +5,7 @@ Hoy vamos a empezar nuestro recorrido por un nuevo y hermoso mundo: ¡la **bioin
 ¿Difícil? ¡No tanto! Peeeero antes de empezar aprendamos algunas nociones sobre nuestras amigas las computadoras. ¡Seguínos!
 
 
-**Entonces: ¿Qué es Python?**
-Es un lenguaje de programación con una forma de escritura (sintaxis) sencilla y poderosa. Es lo que se
-conoce como lenguaje de scripting, que puede ser ejecutado por partes y no necesita
-ser compilado en un paso aparte. Python tiene muchas características, ventajas y usos
-que vamos a pasar por alto en este taller, pero que podes leer en las páginas oficiales
-de Python y Python Argentina. Para nosotros, la razón más importante para elegir
-Python es que podés comenzar a hacer tus propios programas realmente rápido.
+
 
 **¿Cómo se puede usar Python?**
 Depende del dispositivo que uses. En las computadoras con Linux, suele venir instalado. Si tenés
