@@ -1,1 +1,0 @@
-Es importante conocer nuestra herramienta de trabajo, en este caso nuestra PC o teléfono inteligente. ¿Podrías identificar qué parte de la computadora estaremos trabajando?
