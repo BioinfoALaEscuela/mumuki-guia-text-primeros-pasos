@@ -1,11 +1,8 @@
 ¡Hola! :wave:
 
-Hoy vamos a empezar nuestro recorrido por un nuevo y hermoso mundo: ¡la **bioinformática**! :open_mouth:  Y de forma no muy sorprendente, la bioinformática trata de juntar biología e informática :stuck_out_tongue:
+Hoy vamos a empezar nuestro recorrido por un nuevo y hermoso mundo: ¡la **bioinformática**! :open_mouth:  Cómo bien te podés imaginar, la bioinformática trata de juntar biología e informática :stuck_out_tongue:
 
-¿Difícil? ¡No tanto! Peeeero antes de empezar aprendamos algunas nociones sobre nuestras amigas las computadoras. ¡Seguínos!
-
-
-
+¿Difícil? ¡No tanto! Por eso, antes de empezar, aprendamos algunas nociones sobre nuestras amigas las computadoras y su idioma. ¡Seguínos!
 
 **¿Cómo se puede usar Python?**
 Depende del dispositivo que uses. En las computadoras con Linux, suele venir instalado. Si tenés
@@ -16,8 +13,8 @@ las apps disponibles. Recomendamos las siguientes opciones gratuitas:
 - Para teléfonos Windows: Python 3.
 - Para iOS: Python 2.5 for iOS.
 
-**¿Cómo escribimos código en Python dentro de las apps?**
-¡Es muy fácil! Sólo tenés que abrir la app y ejecutar la consola o terminal de Python. Te aparecerá una
+**¿Cómo escribimos código en Python dentro de las apps?** :scream:
+¡Es muy fácil!:stuck_out_tongue_closed_eyes: Sólo tenés que abrir la app y ejecutar la consola o terminal de Python. Te aparecerá una
 pantalla con un pequeño símbolo, usualmente ‘>’, donde podrás ingresar las distintas órdenes (o
 comandos) que le darás a la computadora, siempre en sintaxis de Python. Cada vez que des Enter se
 ejecutará esa orden y podrás escribir un nuevo comando. ¡Ojo! Al salir de la consola se borrarán los
